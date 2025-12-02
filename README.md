@@ -6,7 +6,7 @@
 
 <p>
   <em>
-    Tenho 21 anos, sou de São Paulo e trabalho atualmente como Desenvolvedor Full Stack.
+    Tenho 22 anos, sou de São Paulo e trabalho atualmente como Desenvolvedor Full Stack.
   </em>
 </p>
 
@@ -14,7 +14,7 @@
 - 🚀 Estudante do DevClub, Rocketseat e Luiz Otávio Miranda.
 - 📧 Meu email: lucasmauriciofc@gmail.com.
 
-### 📊 Metas de 2024:
+### 📊 Metas de 2026:
 
 - 📚 Continuar buscando conhecimento das pessoas e materiais de estudo.
 
